@@ -1,0 +1,16 @@
+.uniqueClassOne {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+.uniqueClassTwo {
+    background-color: yellow;
+}
+
+
+.uniqueClassOne, 
+.uniqueClassTwo {
+    font-family: "Helvetica", "Times New Roman", "sans-serif";
+    font-size: 28px;
+}
